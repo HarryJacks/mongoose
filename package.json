@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-example",
+  "version": "1.0.0",
+  "description": "Using schemas and models in Mongoose with MondoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryJacks/mongoose.git"
+  },
+  "author": "Harry Jacks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryJacks/mongoose/issues"
+  },
+  "homepage": "https://github.com/HarryJacks/mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.3.16"
+  }
+}
